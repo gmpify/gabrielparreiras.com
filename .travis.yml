@@ -1,2 +1,4 @@
 language: ruby
-script: bundle exec jekyll build --trace
+script:
+  - bundle exec jekyll build --trace
+  - bundle exec htmlproofer ./_site --disable-external
