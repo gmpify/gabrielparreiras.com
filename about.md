@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Brazilian and living in the UK since November 2017, I moved to Manchester to work as a DevOps Engineer with Cake Solutions Ltd - a BAMTECH Media Company.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+On the last 3 years, I've worked with media companies focusing on streaming videos on the internet. Took in projects since the encoding up until the distribution of content, mostly handling infrastructure decisions, architecting systems, enhancing and performing deployments and supporting production environments.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+My hobbies are to play board games and video games, cycle and watch cats videos. I like to travel, find my way around new places and meet interesting people.
